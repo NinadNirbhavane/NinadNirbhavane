@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinadNirbhavane
 - 👀 I’m interested in Learning New It stuff
-- 🌱 I’m currently learning DSA & wEB DEVELOPMENT
+- 🌱 I’m currently learning DSA & WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on OPEN SOURCE
 - 📫 How to reach me ninad.nirbhavane@gmail.com
 
